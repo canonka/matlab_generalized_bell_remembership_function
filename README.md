@@ -1,5 +1,5 @@
 # matlab_generalized_bell_remembership_function
-<p>It is a matlab program that draws generalized bell remembership function with entered data</p>
+<p>It is a matlab program that draws generalized bell membership function with entered data</p>
 
 
 <hr>
