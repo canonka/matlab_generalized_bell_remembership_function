@@ -3,12 +3,13 @@
 
 
 <hr>
+<br/>
 <img src="bell.png">
 <br/>
 <img src="bell_resim.png">
 
 <br/>
-  <p><b><a href="https://www.linkedin.com/in/senerbatuhan/">Linkedin</a></b></p>
+  <hr>
 <br/>
-<p><b>Created by Batuhan ŞENER</b></p>
+<p><b>Created by <a href="https://www.linkedin.com/in/senerbatuhan/">Batuhan ŞENER</a></b></p>
 <br/>
