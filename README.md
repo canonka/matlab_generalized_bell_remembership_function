@@ -3,9 +3,11 @@
 
 
 <hr>
-<br/>
-<img src="static/Photos/index.jpg">
 
+<br/>
+<img src="bell.png">
+<br/>
+<img src="bell_resim.png">
 <br/>
   <hr>
 <br/>
