@@ -4,9 +4,7 @@
 
 <hr>
 <br/>
-<img src="bell.png">
-<br/>
-<img src="bell_resim.png">
+<img src="static/Photos/index.jpg">
 
 <br/>
   <hr>
